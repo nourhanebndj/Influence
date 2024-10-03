@@ -4,9 +4,11 @@
 
 Below are screenshots of different sections of the Influence Agency website:
 
-(./screenshots/blog2.png) | (./screenshots/contact.png) | (./screenshots/footer.png) |
-(./screenshots/Home_en.png)  | (./screenshots/Home_fr.png)    | (./screenshots/Home_ar.png)  |
-(./screenshots/portfolio.png) | (./screenshots/Service.png)   | (./screenshots/Service1.png) |
+| ![ ](./screenshots/Home_en.png) | ![ ](./screenshots/Home_fr.png) | ![ ](./screenshots/Home_ar.png) |
+|-------------------------------|-------------------------------|-------------------------------|
+| ![ ](./screenshots/portfolio.png) | ![ ](./screenshots/Service.png) | ![ ](./screenshots/Service1.png) |
+|-------------------------------|-------------------------------|-------------------------------|
+| ![ ](./screenshots/blog2.png) | ![ ](./screenshots/contact.png) | ![ ](./screenshots/footer.png) |
 
 ---
 
